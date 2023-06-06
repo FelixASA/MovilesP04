@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovilesP04</string>
+    <string name="BtnIniciar">Iniciar</string>
+    <string name="title_activity_tabla_periodica">TablaPeriodica</string>
+    <string name="Titulo">Tabla Periodica</string>
+    <string-array name="Filtros">
+        <item>Todos</item>
+        <item>Metales</item>
+        <item>No metales</item>
+        <item>Estados</item>
+    </string-array>
+
+    <string-array name="Estados">
+        <item>solid</item>
+        <item>liquid</item>
+        <item>gas</item>
+    </string-array>
+</resources>
